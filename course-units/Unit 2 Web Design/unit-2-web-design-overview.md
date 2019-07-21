@@ -11,6 +11,7 @@ Get started creating web pages with HTML and CSS, the basic building blocks of w
 Learn HTML (HyperText Markup Language), the language common to every website. HTML describes the basic structure and content of a web page. If you want to build a website or web application, you'll need to know HTML.
 
 #### Web Accessibility
+You’ll learn about the standards in place to guide developers in creating a web that is accessible to all users as well as techniques to help bring your projects up to those standards. 
 
 
 #### Web Design Process

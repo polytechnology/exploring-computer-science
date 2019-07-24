@@ -1,4 +1,4 @@
-# Lesson 1 Getting Familiar with HTML and CSS
+# Topic 1 Getting Familiar with HTML and CSS
 
 Learn the basic structure of a web page, how HTML and CSS are used to change the structure and appearance of web pages, and how HTML and CSS fit into the larger world of web development.
 
@@ -10,7 +10,7 @@ Learn the basic structure of a web page, how HTML and CSS are used to change the
 - Check our understanding of HTML and CSS
 - Test our knowledge of some given code
 
-### Lesson Details
+### Topic Details
 
 This lesson defines HTML and CSS, shows where and how it’s used on websites you visit everyday, and looks at the example project you will be working on throughout the course.
 

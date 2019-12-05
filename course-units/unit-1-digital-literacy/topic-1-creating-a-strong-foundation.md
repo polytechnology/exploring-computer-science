@@ -28,15 +28,11 @@ No one's born "smart" or "stupid." Intelligence is something we can always incre
 
 Think about the term muscle memory. You build muscle by repetition.
 
-(show video 1)
-
 #### 3 Ways to Build a Habit of Learning
 
 Learning is a marathon, not a sprint. If you make learning a routine part of your week, you set yourself up for success as a student and prepare yourself for a lifetime of learning. In this video, learn 3 ways to turn your studies into a successful habit.
 
 Spread your learning over the week. Trying to cram 6 hours of learning in on a Sunday is not always easy. It’s also not very effective. Set a weekly schedule. Make it a habit.
-
-(show video 2)
 
 #### Focus Your Mind, Improve Your Learning
 
@@ -67,7 +63,6 @@ Wear headphones: noises can be distracting. Try listening to nature sounds, whit
 
 [Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
 
-(show video 3)
 
 #### Be a Lifelong Learner
 
@@ -76,5 +71,3 @@ Lifelong learners recognize that learning just doesn't happen in school or at wo
 - Communication skills
 - Time management skills
 - Lifelong learning is not a sprint, but a marathon
-
-(show video 4)

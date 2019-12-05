@@ -1,29 +1,14 @@
-# Unit 2 - Web Design
+# Unit 4 - Algorithms and Data Structures
 
-In this unit, you’ll learn how to design and build beautiful websites by learning the basic principles of design like branding, color theory, and typography which are all instrumental in the design process of a website. You’ll also learn HTML and CSS, which are the common code languages that all modern websites are built on. These are useful skills to acquire as they are needed by nearly every single business in the world to communicate to customers. By the end of this track, you’ll have all the skills required to design and build your own websites or even start a career with one of the thousands of companies that have a website.
+In this unit, you'll learn about two of the fundamental topics in computer science - algorithms and data structures. With increasing frequency algorithms are starting to shape our lives in many ways - from the products recommended to us, the friends we interact with on social media and even in important social issues like policing, privacy and healthcare. By the end of this track you will understand what algorithms and data structures are, how they are measured and evaluated and how they are used to solve common, complex problems.
 
 ## Topics
 
-#### Introduction to HTML and CSS
-Get started creating web pages with HTML and CSS, the basic building blocks of web development. HTML, or HyperText Markup Language, is a standard set of tags you will use to tell the web browser how the content of your web pages and applications are structured. Use CSS, or Cascading Style Sheets, to select HTML tags and tell the browser what your content should look like. Whether you are coding for fun or planning to start a career in web development, learning HTML and CSS is a great place to start.
+#### Introduction to Alogorithms
+Algorithms are a fundamental topic in computer science, power many of the largest companies today and are used in making many decisions that affect our day to day lives - in obvious places like Google's PageRank algorithm to more obscure use cases like national security and local policing. In this introductory course, we're going to take our first steps towards understanding the world of algorithms and data structures. Before we can study individual algorithms we're going to spend time learning how to evaluate algorithms, how to make comparisons and how to develop algorithmic thinking.
 
-#### HTML Basics
-Learn HTML (HyperText Markup Language), the language common to every website. HTML describes the basic structure and content of a web page. If you want to build a website or web application, you'll need to know HTML.
+#### Introductions to Data Structures
+In computer science a data structure is a construct that allows us to organize and store data in our programs. In this course we're going to learn about two introductory data structures - arrays and linked lists! We'll look at common operations and how the runtimes of these operations affect our everyday code. For the rest of the course we're going to bring our knowledge of algorithms and data structures together to solve the problem of sorting data using the merge sort algorithm.
 
-#### Web Accessibility
-You’ll learn about the standards in place to guide developers in creating a web that is accessible to all users as well as techniques to help bring your projects up to those standards. 
-
-
-#### Web Design Process
-Going from a blank screen to a finished website can be daunting. In this course, you'll learn about the major steps involved in designing websites. We'll learn how to gather information, explore potential concepts, and iterate on a design. By the end, you'll have the foundation you need to continue your design journey.
-
-#### CSS Basics
-CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.
-
-#### CSS Selectors
-we're going to go beyond the basic selector concepts covered in CSS Basics. Besides the common ways to select elements with type, ID and class selectors, we're able to target elements based on their attributes, position in the HTML document, even their relation to other elements. By the end of this course, you'll have gained a better understanding of the power and flexibility behind CSS selectors. You'll have a new set of valuable tools in your CSS toolkit to use on your next project.
-
-#### Web Typography
-#### CSS Layout Basics
-#### Responsive Layouts
-#### CSS Transitions and Transforms
+#### Alogorithms: Sorting and Searching
+We will look at algorithms in two categories: sorting and searching. We'll implement well-known sorting algorithms like selection sort, quicksort, and merge sort. You'll also learn basic search algorithms like sequential search and binary search. 

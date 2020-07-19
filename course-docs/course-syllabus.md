@@ -1,4 +1,4 @@
-# Course Syllabus 2019-2020
+# Course Syllabus 2020-2021
 
 ## General Course Description
 Exploring Computer Science is a yearlong course consisting of 6 units, approximately 6 weeks each. The course was developed around a framework of both computer science content and computational practice. Assignments and instruction are contextualized to be socially relevant and meaningful for diverse students. Units utilize a variety of tools/platforms.
@@ -48,25 +48,17 @@ Your grade is weighted in this course. 50% of a students grade comes from class 
 
 #### Class Participation
 
-Each day a student can earn up to 3 points. If the student is absent, these points can't be made up unless a verified absent note is given. Students that are on their phone, or have their phone out during class and it was not approved will lose all points for the day and go to the office. Each time a student is off task for any given reason, they will lose 1 point for each time up to 3 times a period.
+Each day a student can earn up to 3 points. If the student is absent, these points can't be made up unless a verified absent note is given. Students that are on their phone, or have their phone out during class and it was not approved will lose all points for the day. Each time a student is off task for any given reason, they will lose 1 point for each time up to 3 times a period.
 
 #### Project time length 
 
-1 - 2 days: 10 - 15 pts
+Projects will be both individual and group work. Projects can be completed in a class period or last up to several weeks.
 
-3 - 4 days: 20 - 25 pts
-
-1 - 2 Weeks: 50 - 100 pts 
-
-Quizzes: 25 pts 
-
-Tests: 50 pts 
-
-Finals: 100 pts
+The point value veries based on the proejct.
 
 #### Test, Quizzes, and Finals
 
-All, test, quizzes, and finals will be taken on a computer in the classroom. They will include but are not limited to true and false, matching, and multiple choice or short essay questions. 
+All, test, quizzes, and finals will be taken on a computer in the classroom. They will include but are not limited to true and false, matching, and multiple choice or short essay questions.
 
 ## Computer Room Rules
 

@@ -51,7 +51,7 @@ Your grade is weighted in this course. 50% of a students grade comes from class 
 
 #### Class Participation
 
-Each day a student can earn up to 3 points. If the student is absent, these points can't be made up unless a verified absent note is given. Students that are on their phone, or have their phone out during class and it was not approved will lose all points for the day. Each time a student is off task for any given reason, they will lose 1 point for each time up to 3 times a period.
+Each day a student can earn 2 points for being present in our live sessions. 1 point for being present and 1 point for actively participating. If the student is absent, these points can't be made up. I will tally the points and they will be posted in Aeries once a week under the corresponding weekly participation Students should be ready, I could call on you for input, information or a response to an assignment we are talking about. If you are un able to respond to me if called on, you could lose your participation point.
 
 #### Project time length 
 

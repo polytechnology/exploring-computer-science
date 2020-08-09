@@ -1,4 +1,4 @@
-# Course Syllabus 2020-2021
+# Course Syllabus In Classroom
 
 ## General Course Description
 Exploring Computer Science is a yearlong course consisting of 6 units, approximately 6 weeks each. The course was developed around a framework of both computer science content and computational practice. Assignments and instruction are contextualized to be socially relevant and meaningful for diverse students. Units utilize a variety of tools/platforms.
@@ -16,7 +16,7 @@ This course is designed in a way to give each student a better understanding and
 - Unit 6: Advanced Topics in Computer Science
 
 ### Grading/Posting of Grades
-Parents are encouraged to log on to aeries to check on their student’s grades/progress. If you need assistance logging on to your Aeries account, contact the Poly Administration office at (951) 788-7203. 
+Parents are encouraged to log on to aeries to check on their student’s grades/progress. If you need assistance logging into your Aeries account, contact the Poly Administration office at (951) 788-7203. 
 
 I will post student grades IN AERIES after each assignment/test/quiz/final is finished and graded. Students, log into Aeries to know your grades.  
 

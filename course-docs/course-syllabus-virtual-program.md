@@ -8,12 +8,12 @@ This course is designed in a way to give each student a better understanding and
 
 ### Topics
 
-- Unit 1: Digital Literacy
-- Unit 2: Web Design
-- Unit 3: Programming
-- Unit 4: Algorithms and Data Structures
-- Unit 5: Game Development
-- Unit 6: Advanced Topics in Computer Science
+- Unit 1: Digital Literacy - Finished in Fall
+- Unit 2: Web Design - Finished in Fall
+- Unit 3: Programming - Spring
+- Unit 4: Algorithms and Data Structures - Spring
+- Unit 5: Game Development - Spring
+- Unit 6: Advanced Topics in Computer Science - If we have time
 
 ### Grading/Posting of Grades
 Parents are encouraged to log on to aeries to check on their student’s grades/progress. If you need assistance logging into your Aeries account, contact your students home school Administration office.
@@ -40,24 +40,14 @@ https://aeriesportal.rusd.k12.ca.us/LoginParent.aspx?page=default.aspx
 | 55 - 61 | D- |
 | 0 - 54 | F |
 
-### Point Values for Course Assignments/Class Participation
+### Point Values for Course Assignments
 
-Your grade is weighted in this course. 50% of a students grade comes from class participation and 50% comes from course projects. Points for assignments will vary based on the type of assignment and the length of the assignment. Students will be given a 1 week grace period after the due date to turn in an assignment if its late. After the 1 week, that assignment will not be excepted for credit. All late assignments that are turned in within the grace period will have points deducted for being late.
+Points for assignments will vary based on the type of assignment and the length of the assignment. Students will be given a 1 week grace period after the due date to turn in an assignment if its late. After the 1 week, that assignment will not be excepted for credit. All late assignments that are turned in within the grace period will have points deducted for being late.
 
 ***Example***
 - If an assignment is worth 10 points, and the student turns in the assignment on time, they could earn from 0-10 points
 - If the assignment is turned in after the due date, but within the 1 week grace period, they could earn 0-7 points
 - If the assignment is turned in after the 1 week grace period, the assignment will be given a score of 0
-
-#### Class Participation
-
-Each day a student can earn 2 points for being present in our live sessions. 1 point for being present and 1 point for actively participating. If the student is absent, these points can't be made up. I will tally the points and they will be posted in Aeries once a week under the corresponding weekly participation Students should be ready, I could call on you for input, information or a response to an assignment we are talking about. If you are un able to respond to me if called on, you could lose your participation point.
-
-#### Project time length 
-
-Projects will be both individual and group work. Projects can be completed in a class period or last up to several weeks.
-
-The point value veries based on the proejct.
 
 #### Test, Quizzes, and Finals
 

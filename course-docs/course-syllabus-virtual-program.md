@@ -60,4 +60,9 @@ All, test, quizzes, and finals will be taken on a computer in the classroom. The
 - Save your snacking for after the chat.
 - You are expected to be in your class and paying attention.
 
+## My Contact Info
+
+- email: jscott@riversideunified.org
+- remind app: @polyecs
+
 **If I have missed something in this document, it does not mean that it is ok, ask me first.**

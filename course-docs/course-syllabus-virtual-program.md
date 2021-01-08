@@ -60,6 +60,10 @@ All, test, quizzes, and finals will be taken on a computer in the classroom. The
 - Save your snacking for after the chat.
 - You are expected to be in your class and paying attention.
 
+## Attendence
+
+For a student to be marked "Present / 7" they will need to complete the class participation assignment or question during our live sessions. Most if not all students do not turn their camera on so I don't know if they are really in the live session. If a student is really their then they would have no problem completing the assignment/question and turing it in on time.
+
 ## My Contact Info
 
 - email: jscott@riversideunified.org

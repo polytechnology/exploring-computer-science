@@ -40,7 +40,9 @@ https://aeriesportal.rusd.k12.ca.us/LoginParent.aspx?page=default.aspx
 | 55 - 61 | D- |
 | 0 - 54 | F |
 
-### Point Values for Course Assignments
+### Point Values for Course Assignments and Class Participation
+
+#### Assignments
 
 Points for assignments will vary based on the type of assignment and the length of the assignment. Students will be given a 1 week grace period after the due date to turn in an assignment if its late. After the 1 week, that assignment will not be excepted for credit. All late assignments that are turned in within the grace period will have points deducted for being late.
 
@@ -48,6 +50,10 @@ Points for assignments will vary based on the type of assignment and the length 
 - If an assignment is worth 10 points, and the student turns in the assignment on time, they could earn from 0-10 points
 - If the assignment is turned in after the due date, but within the 1 week grace period, they could earn 0-7 points
 - If the assignment is turned in after the 1 week grace period, the assignment will be given a score of 0
+
+#### Class Participation
+
+Students are to complete the class participation assignment during our live session. This ensures that the student is present during our time together. There is NO grace period on class participation.
 
 #### Test, Quizzes, and Finals
 
@@ -68,5 +74,7 @@ For a student to be marked "Present / 7" they will need to complete the class pa
 
 - email: jscott@riversideunified.org
 - remind app: @polyecs
+
+If students need me for a face to face, we can connect from 3:30pm to 4:30pm M - F
 
 **If I have missed something in this document, it does not mean that it is ok, ask me first.**
